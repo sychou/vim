@@ -14,3 +14,11 @@ filetype plugin on
 
 " Treat all text as markdown
 au BufNewFile,BufFilePre,BufRead *.txt set filetype=markdown
+
+" GUI Stuff
+if has('gui_running')
+endif
+
+" Line numbers
+set number
+highlight LineNr ctermfg=grey
