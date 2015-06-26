@@ -22,3 +22,9 @@ endif
 " Line numbers
 set number
 highlight LineNr ctermfg=grey
+
+" Tab stop
+set tabstop=4
+set softtabstop=4
+set shiftwidth=4
+set expandtab

@@ -24,7 +24,6 @@ Be sure to link:
 
 ### text wranglers
 
-* [sleuth](https://github.com/tpope/vim-sleuth) - guesses tab settings
 * [nerdcommenter](https://github.com/scrooloose/nerdcommenter) - handles comments better
 * [supertab](https://github.com/ervandew/supertab) - auto complete everything
 * [surround](https://github.com/tpope/vim-surround) - easier handling of parans, quotes, etc.
