@@ -4,6 +4,10 @@ My vim configuration which includes my "must-have" plugins (all managed by
 Pathogen). The configuration starts with Sensible vim and modifies only for
 plugins.
 
+Clone into a fresh directory
+
+    git clone https://github.com/sychou/vim.git .vim
+
 Be sure to link:
 
     ln -s ~/.vim/vimrc ~.vimrc
