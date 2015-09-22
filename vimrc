@@ -17,6 +17,8 @@ au BufNewFile,BufFilePre,BufRead *.txt set filetype=markdown
 
 " GUI Stuff
 if has('gui_running')
+    set lines=50 columns=85
+    set guifont=Andale\ Mono:h12
 endif
 
 " Line numbers
