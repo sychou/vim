@@ -24,7 +24,7 @@ Be sure to link:
 
 * [ctrlp](https://github.com/kien/ctrlp.vim) - fuzzy file finder
 * [nerdtree](https://github.com/scrooloose/nerdtree) - file explorer
-* [ack](https://github.com/mileszs/ack.vim) - search text to find files
+* [ack](https://github.com/mileszs/ack.vim) - search text to find files (be sure to install ack)
 
 ### text wranglers
 

@@ -30,3 +30,14 @@ set tabstop=4
 set softtabstop=4
 set shiftwidth=4
 set expandtab
+
+" Remap some keys
+let mapleader=","
+
+" Nice text options
+" Don't break words when wrapping
+set formatoptions=l
+set lbr
+" Up/down includes wrapped lines
+map j gj
+map k gk
