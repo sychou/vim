@@ -6,7 +6,7 @@ plugins.
 
 Clone into a fresh directory
 
-    git clone https://github.com/sychou/vim.git .vim
+    git clone --recursive https://github.com/sychou/vim.git .vim
 
 Be sure to link:
 
